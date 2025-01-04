@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "timeSlot": "10:00 AM",
+      "petInfo": "Golden Retriever",
+      "petParent": "John Doe",
+      "doctor": "Dr. Smith",
+      "purpose": "Vaccination",
+      "status": "In Progress"
+    },
+    {
+      "id": 2,
+      "timeSlot": "11:00 AM",
+      "petInfo": "Persian Cat",
+      "petParent": "Jane Smith",
+      "doctor": "Dr. Adams",
+      "purpose": "Checkup",
+      "status": "Completed"
+    }
+  ]
+  
